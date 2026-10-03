@@ -1,14 +1,14 @@
 # My Sewing Assistant
 
-I built My Sewing Assistant to keep the details of a sewing project together: pattern, fabric, notions, measurements, seam allowances, adjustments, progress, and next steps. You can ask a sewing question in plain language and get a practical next step without losing your place in the project.
+My Sewing Assistant keeps a project’s pattern, fabric, notions, measurements, seam allowances, fit changes, and next steps in one place. Sewing help stays in context too: ask a question in plain language and get a practical next step beside the project.
 
-## Build decisions
+## How the workspace is organized
 
-I made the project the home for both planning and in-context help. The next action stays connected to the thing being made, instead of getting lost in a separate list of notes.
+Start with a pattern or a blank project, add the materials and measurements, then track the stages of the work. I made the project the notebook and the place to ask for help, so details do not get separated from the thing being made.
 
-This repository contains project notes and links, not application source.
+This public repository contains notes and links, not application source.
 
 ## Links
 
 - [My Sewing Assistant](https://mysa.space)
-- [Portfolio project notes](https://portfolio.aerovisus.com/#my-sewing-assistant)
+- [Portfolio notes](https://portfolio.aerovisus.com/#my-sewing-assistant)
